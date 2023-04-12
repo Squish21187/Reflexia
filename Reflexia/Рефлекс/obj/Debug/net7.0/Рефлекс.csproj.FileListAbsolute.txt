@@ -1,0 +1,15 @@
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\bin\Debug\net7.0\Рефлекс.exe
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\bin\Debug\net7.0\Рефлекс.deps.json
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\bin\Debug\net7.0\Рефлекс.runtimeconfig.json
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\bin\Debug\net7.0\Рефлекс.dll
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\bin\Debug\net7.0\Рефлекс.pdb
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.csproj.AssemblyReference.cache
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.AssemblyInfoInputs.cache
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.AssemblyInfo.cs
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.csproj.CoreCompileInputs.cache
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.dll
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\refint\Рефлекс.dll
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.pdb
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\Рефлекс.genruntimeconfig.cache
+C:\Users\vladm\source\repos\Рефлекс\Рефлекс\obj\Debug\net7.0\ref\Рефлекс.dll
